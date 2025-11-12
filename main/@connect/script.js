@@ -32891,9 +32891,9 @@ const f4 = {
   },
   A4 = {
     DISCONNECTED: "Vous avez été déconnecté(e).",
-    DRAWING_NOTHING: "Vous devez dessiner quelque chose !",
+    DRAWING_NOTHING: "Vous devez dessiner quelque chose !",
     PLAYER_KICKED: "Vous avez été éjecté(e) de la partie par un modérateur.",
-    ROOM_DESTROYED: "Merci d'avoir joué !",
+    ROOM_DESTROYED: "Merci d'avoir joué !",
     ROOM_DISCONNECTED: "Déconnexion",
     TEXT_NAUGHTY:
       "Je crains que vous ne puissiez pas écrire ça. Respectez les autres joueurs.",
@@ -32904,7 +32904,7 @@ const f4 = {
   C4 = {
     JOINED_COUNT: "{count} joueurs sur {maxPlayers} ont rejoint la partie",
     PLAYERS_NEEDED:
-      "1 joueur nécessaire pour commencer | {count} joueurs nécessaires pour commencer",
+      "1 joueur nécessaire pour commencer | {count} joueurs nécessaires pour commencer",
     WAITING_FOR_VIP: "En attente de {name} pour commencer la partie",
     WAITING_FOR_GAMEPAD: "En attente du début de la partie",
     WAITING_FOR_NEW_GAME: "En attente du début d'une nouvelle partie",
@@ -32915,10 +32915,10 @@ const f4 = {
   w4 = {
     GALLERY_LINK: "Visiter la galerie",
     NEW_GAME_STARTED: "Une nouvelle partie a commencé",
-    PLAY_AGAIN: "Rejouer ?",
-    WHICH_GAME: "À quel jeu ?",
-    WHICH_PLAYERS: "Avec quels joueurs ?",
-    THANKS_FOR_PLAYING: "Merci d'avoir joué !",
+    PLAY_AGAIN: "Rejouer ?",
+    WHICH_GAME: "À quel jeu ?",
+    WHICH_PLAYERS: "Avec quels joueurs ?",
+    THANKS_FOR_PLAYING: "Merci d'avoir joué !",
     BUTTON_GO_TO_GAME: "Aller au jeu",
     BUTTON_GO_TO_JACKBOX: "Retour à jackbox.tv",
     BUTTON_PLAY_AGAIN: "Rejouer",
@@ -32931,7 +32931,7 @@ const f4 = {
   I4 = {
     BUTTON_SKIP: "Passer",
     BUTTON_NEXT: "Suivant",
-    BUTTON_DONE: "Allons-y !",
+    BUTTON_DONE: "Allons-y !",
   },
   N4 = { NAME: "SPECTATEURS" },
   P4 = {
@@ -32946,22 +32946,22 @@ const f4 = {
     EPISODE_REPORT: "Signaler l'épisode",
     EPISODE_UNLOAD: "Retirer l'épisode",
     EPISODE_VIEW_AUTHOR: "Voir l'auteur",
-    EPISODES_LOAD: "Charger un épisode par id :",
+    EPISODES_LOAD: "Charger un épisode par id :",
     EPISODES_MENU: "Menu des épisodes",
-    EPISODES_SELECT: "Ou sélectionner un épisode :",
+    EPISODES_SELECT: "Ou sélectionner un épisode :",
     EPISODES_WARNING:
-      "Attention : le contenu généré par les utilisateurs ne fait pas l'objet d'un classement",
+      "Attention : le contenu généré par les utilisateurs ne fait pas l'objet d'un classement",
     INSTRUCTION: {
       CREATE_TITLE:
         "commencez par donner un nom à l'épisode qui contiendra vos sujets, puis touchez créer.",
-      LOAD: "créer ou charger ?",
+      LOAD: "créer ou charger ?",
       PUBLISH: "publiez votre épisode",
       TITLE: "donnez un nom à votre épisode",
       TOGGLE_VISIBILITY: "touchez pour afficher/masquer les sujets",
       WRITE: "écrivez vos sujets",
     },
     WARNING: {
-      DELETE: "Voulez-vous vraiment supprimer cet épisode ?",
+      DELETE: "Voulez-vous vraiment supprimer cet épisode ?",
       TOS: "En partageant votre contenu, vous acceptez nos [tos]Conditions de service[/tos]",
       TOS_AGREE: "accepter et partager",
     },
@@ -32980,7 +32980,7 @@ const f4 = {
         "La connexion de votre compte à l'extension Twitch Jackbox Audience Kit a réussi.",
       WARNING: "LE PARAMÈTRE 'PUBLIC' N'EST PAS ACTIVÉ DANS CETTE SALLE.",
     },
-    RECONNECTED: { TEXT: "RECONNECTÉ(E)", SUBTEXT: "Amusez-vous bien !" },
+    RECONNECTED: { TEXT: "RECONNECTÉ(E)", SUBTEXT: "Amusez-vous bien !" },
     RECONNECTING: {
       CONTROLLER: {
         TEXT: "CONNEXION INTERROMPUE",
@@ -44288,14 +44288,14 @@ from your past games list.`,
   wH = {
     NAME: "NOM",
     NAME_PLACEHOLDER: "INDIQUEZ VOTRE NOM",
-    PASSWORD_PLACEHOLDER: "TAPEZ UN MOT DE PASSE À 5 CHIFFRES",
+    PASSWORD_PLACEHOLDER: "TAPEZ UN MOT DE PASSE À 5 CHIFFRES",
     PASSWORD_REQUIRED_TITLE: "Mot de passe requis",
     PASSWORD_REQUIRED_BODY:
       "Indiquez le mot de passe ou rejoignez la salle en tant que spectateur.",
     PASSWORD_JOIN_AS_PLAYER: "Rejoindre en tant que joueur",
     PASSWORD_JOIN_AS_AUDIENCE: "Rejoindre en tant que spectateur",
     ROOM_CODE: "CODE DE SALLE",
-    ROOM_CODE_PLACEHOLDER: "TAPEZ LE CODE À 4 LETTRES",
+    ROOM_CODE_PLACEHOLDER: "TAPEZ LE CODE À 4 LETTRES",
   },
   OH = "Lien vers la page d'accueil de Jackbox Games",
   IH = {
@@ -44314,7 +44314,7 @@ from your past games list.`,
   NH = {
     EMAIL_INPUT_PLACEHOLDER: "Adresse e-mail",
     JOIN: "Abonnez-vous à notre newsletter",
-    SUBSCRIBED: "Merci pour votre inscription à notre liste de diffusion !",
+    SUBSCRIBED: "Merci pour votre inscription à notre liste de diffusion !",
   },
   PH = {
     CALL_TO_ACTION: {
@@ -44324,11 +44324,11 @@ from your past games list.`,
     NEW: "NOUVEAU",
     PLAYED_ON: "JOUÉE LE",
     REMOVE: {
-      CONFIRM: "Êtes-vous sûr ?",
+      CONFIRM: "Êtes-vous sûr ?",
       DESCRIPTION: `Cela supprimera définitivement cette partie
 de votre liste d'anciennes parties.`,
-      MANAGE: "Supprimer la partie ?",
-      TITLE: "Êtes-vous sûr ?",
+      MANAGE: "Supprimer la partie ?",
+      TITLE: "Êtes-vous sûr ?",
     },
   },
   UH = {
@@ -44357,9 +44357,9 @@ de votre liste d'anciennes parties.`,
   },
   KH = {
     CAMERA:
-      "[b]ATTENTION :[/b] Nous ne détectons aucune caméra, mais vous pouvez jouer sans afficher votre photo. Si vous pensez qu'il s'agit d'une erreur, essayez de rejoindre en utilisant un autre navigateur.",
+      "[b]ATTENTION :[/b] Nous ne détectons aucune caméra, mais vous pouvez jouer sans afficher votre photo. Si vous pensez qu'il s'agit d'une erreur, essayez de rejoindre en utilisant un autre navigateur.",
     STYLE:
-      "[b]ATTENTION :[/b] Votre navigateur semble obsolète. Vous risquez de rencontrer des problèmes d'affichage avec ce jeu.",
+      "[b]ATTENTION :[/b] Votre navigateur semble obsolète. Vous risquez de rencontrer des problèmes d'affichage avec ce jeu.",
     TOS: "En cliquant sur {submit}, vous acceptez nos [tos]Conditions de service[/tos].",
   },
   kH = {
@@ -46272,7 +46272,7 @@ const QW = Cr(XW, [
       async load() {
         try {
           const e = await (
-              await fetch("https://cdn.jackboxgames.com/banners.json")
+              await fetch("/main/@connect/slider/slider.json")
             ).json(),
             n = (e == null ? void 0 : e.bannerAds) ?? [];
           (this.banners = n
