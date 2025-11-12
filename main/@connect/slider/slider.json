@@ -1,0 +1,352 @@
+{
+    "bannerAds": [
+        {
+            "locale": "fr",
+            "text": "ACHETER MAINTENANT !",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/3YCSQVI"
+        },
+        {
+            "locale": "fr",
+            "text": "ACHETEZ MAINTENANT !",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/3Czzqtr"
+        },
+        {
+            "locale": "fr",
+            "text": "EN VENTE ! 11.99€",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/3YUJrt1"
+        },
+        {
+            "locale": "fr",
+            "text": "EN VENTE ! 16.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/4eb7nhj"
+        },
+        {
+            "locale": "fr",
+            "text": "EN VENTE ! 19.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
+            "href": "https://jbgm.es/3CaHMHL"
+        },
+        {
+            "locale": "fr",
+            "text": "EN VENTE ! 10.99€",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+            "href": "https://jbgm.es/3CmYZ0F"
+        },
+        {
+            "locale": "fr",
+            "text": "EN VENTE ! 5.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/quiplash2-international.png",
+            "href": "https://jbgm.es/4ftyvZR"
+        },
+        {
+            "locale": "it",
+            "text": "ACQUISTA SUBITO!",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/4edP375"
+        },
+        {
+            "locale": "it",
+            "text": "ACQUISTA ORA!",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/491mrNn"
+        },
+        {
+            "locale": "it",
+            "text": "IN OFFERTA! 11.99€",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/3NRkKIP"
+        },
+        {
+            "locale": "it",
+            "text": "IN OFFERTA! 16.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/4fuBG3u"
+        },
+        {
+            "locale": "it",
+            "text": "IN OFFERTA! 19.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
+            "href": "https://jbgm.es/4fx5BYL"
+        },
+        {
+            "locale": "it",
+            "text": "IN OFFERTA! 10.99€",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+            "href": "https://jbgm.es/4eeFAwm"
+        },
+        {
+            "locale": "it",
+            "text": "IN OFFERTA! 5.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/quiplash2-international.png",
+            "href": "https://jbgm.es/4fuXonP"
+        },
+        {
+            "locale": "de",
+            "text": "JETZT KAUFEN!",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/4fto6NI"
+        },
+        {
+            "locale": "de",
+            "text": "JETZT STÖBERN!",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/3UXBtxS"
+        },
+        {
+            "locale": "de",
+            "text": "FOLGE JACKBOX",
+            "src": "https://cdn.jackboxgames.com/banner-images/social-media.png",
+            "href": "https://jbgm.es/linktreede"
+        },
+        {
+            "locale": "de",
+            "text": "IM ANGEBOT! 11.99€",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/4fok6hA"
+        },
+        {
+            "locale": "de",
+            "text": "IM ANGEBOT! 16.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/3AhGcDD"
+        },
+        {
+            "locale": "de",
+            "text": "IM ANGEBOT! 19.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
+            "href": "https://jbgm.es/4hBkqeA"
+        },
+        {
+            "locale": "de",
+            "text": "IM ANGEBOT! 10.99€",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+            "href": "https://jbgm.es/4fQ9OqT"
+        },
+        {
+            "locale": "de",
+            "text": "IM ANGEBOT! 5.49€",
+            "src": "https://cdn.jackboxgames.com/banner-images/quiplash2-international.png",
+            "href": "https://jbgm.es/4fAQPjX"
+        },
+        {
+            "locale": "es",
+            "text": "¡CÓMPRALO AHORA!",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/4ffiZ4e"
+        },
+        {
+            "locale": "es",
+            "text": "¡CÓMPRALO YA!",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/4fXN8Vq"
+        },
+        {
+            "locale": "es",
+            "text": "SIGUE A JACKBOX ONLINE",
+            "src": "https://cdn.jackboxgames.com/banner-images/social-media.png",
+            "href": "https://jbgm.es/linktreees"
+        },
+        {
+            "locale": "es",
+            "text": "¡EN OFERTA! $11.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/4fcVfgP"
+        },
+        {
+            "locale": "es",
+            "text": "¡EN OFERTA! $16.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/3NVBQoO"
+        },
+        {
+            "locale": "es",
+            "text": "¡EN OFERTA! $19.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
+            "href": "https://jbgm.es/4fcjNXx"
+        },
+        {
+            "locale": "es",
+            "text": "¡EN OFERTA! $10.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+            "href": "https://jbgm.es/4fbvKg4"
+        },
+        {
+            "locale": "es",
+            "text": "¡EN OFERTA! $5.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/quiplash2-international.png",
+            "href": "https://jbgm.es/4fbn9tF"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡CÓMPRALO AHORA!",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/3NVEx9K"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡CÓMPRALO YA!",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/3CGcEjW"
+        },
+        {
+            "locale": "es-XL",
+            "text": "SIGUE A JACKBOX ONLINE",
+            "src": "https://cdn.jackboxgames.com/banner-images/social-media.png",
+            "href": "https://jbgm.es/linktreees"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡EN OFERTA! $11.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/3NT6jnn"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡EN OFERTA! $16.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/3YPjdJu"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡EN OFERTA! $19.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
+            "href": "https://jbgm.es/3YBAEfi"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡EN OFERTA! $10.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+            "href": "https://jbgm.es/3Aps1wg"
+        },
+        {
+            "locale": "es-XL",
+            "text": "¡EN OFERTA! $5.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/quiplash2-international.png",
+            "href": "https://jbgm.es/40zVe26"
+        },
+        {
+            "locale": "pt-BR",
+            "text": "DISPONÍVEL AGORA!",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/3ArNJQa"
+        },
+        {
+            "locale": "pt-BR",
+            "text": "COMPRE JÁ!",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/3AQZmQQ"
+        },
+        {
+            "locale": "pt-BR",
+            "text": "SIGA A JACKBOX ONLINE",
+            "src": "https://cdn.jackboxgames.com/banner-images/social-media.png",
+            "href": "https://jbgm.es/linktreebra"
+        },
+        {
+            "locale": "pt-BR",
+            "text": "EM PROMOÇÃO! $ 11.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/3CmSAma"
+        },
+        {
+            "locale": "pt-BR",
+            "text": "EM PROMOÇÃO! $ 16.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/4ea3RDK"
+        },
+        {
+            "text": "AVAILABLE NOW!",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp11.png",
+            "href": "https://jbgm.es/3JgNY5a"
+        },
+        {
+            "text": "WISHLIST NOW",
+            "src": "https://cdn.jackboxgames.com/banner-images/TMP3.png",
+            "href": "https://jbgm.es/40VEiT0"
+        },
+        {
+            "text": "AVAILABLE NOW!",
+            "src": "https://cdn.jackboxgames.com/banner-images/survey-scramble.png",
+            "href": "https://jbgm.es/4dSCv4N"
+        },
+        {
+            "text": "SHOP NOW!",
+            "src": "https://cdn.jackboxgames.com/banner-images/shop-merch.png",
+            "href": "https://jbgm.es/3CwvlGG"
+        },
+        {
+            "text": "BUY NOW ON AMAZON",
+            "src": "https://cdn.jackboxgames.com/banner-images/fakin-it-irl.png",
+            "href": "https://jbgm.es/3UBfs82"
+        },
+        {
+            "text": "ON SALE! $11.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjnp.png",
+            "href": "https://jbgm.es/3ZkZge6"
+        },
+        {
+            "text": "ON SALE! $16.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp10.png",
+            "href": "https://jbgm.es/3vbHpt6"
+        },
+        {
+            "text": "ON SALE! $19.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp9.png",
+            "href": "https://jbgm.es/3v5sH6O"
+        },
+        {
+            "text": "ON SALE! $10.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/tjsp.png",
+            "href": "https://jbgm.es/4auEnAm"
+        },
+        {
+            "text": "ON SALE! $17.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp8.png",
+            "href": "https://jbgm.es/4aAAdqz"
+        },
+        {
+            "text": "ON SALE! $19.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp7.png",
+            "href": "https://jbgm.es/4axajUz"
+        },
+        {
+            "text": "ON SALE! $17.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp6.png",
+            "href": "https://jbgm.es/4ar4HeR"
+        },
+        {
+            "text": "ON SALE! $16.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp5.png",
+            "href": "https://jbgm.es/3Ry2fui"
+        },
+        {
+            "text": "ON SALE! $13.74",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp4.png",
+            "href": "https://jbgm.es/3RRyCFI"
+        },
+        {
+            "text": "ON SALE! $16.24",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp3.png",
+            "href": "https://jbgm.es/41xr5Pk"
+        },
+        {
+            "text": "ON SALE! $4.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/drawful2.png",
+            "href": "https://jbgm.es/4bCEM4t"
+        },
+        {
+            "text": "ON SALE! $12.49",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp2.png",
+            "href": "https://jbgm.es/41xrh10"
+        },
+        {
+            "text": "ON SALE! $9.99",
+            "src": "https://cdn.jackboxgames.com/banner-images/pp1.png",
+            "href": "https://jbgm.es/48ugeYR"
+        }
+    ]
+}
