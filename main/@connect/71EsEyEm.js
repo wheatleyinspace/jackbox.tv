@@ -47512,7 +47512,6 @@ window.tv.register({
       (dt.remove("consent"), dt.remove("consent_exp"));
     } catch {}
     let e = q2(uj, { options: r });
-    e.use(dH({ id: "GTM-P35CHT27", defer: !0 }));
     try {
       const a = window.location.origin;
       YV.syncId(a);
