@@ -16434,17 +16434,7 @@ typeof window < "u" &&
   });
 class YV {
   static async syncId(e) {
-    const n = await fetch(`https://uuid.jackbox.tv/image.png?origin=${e}`, {
-      method: "GET",
-      credentials: "include",
-      headers: { Accept: "application/json" },
-    });
-    if (!n.ok) return;
-    const s = (await n.json()).jbg_id;
-    if (!s) return;
-    const a = new Date();
-    (a.setFullYear(a.getFullYear() + 1),
-      (document.cookie = `jbg_id=${s}; path=/; SameSite=Lax; Secure; expires=${a.toUTCString()}`));
+	return "1342e4cb-21d0-4e9a-9655-813c99577dc6"
   }
 }
 var er =
